@@ -2,6 +2,3 @@
 
 initial content of the first document
 additional content of the first document
-
-##third file
-file3.txt
